@@ -11,7 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 
 ### link
-live site - [QR Component](https://kaywin2001.github.io/QR_Component/)
+live site - [QR Component](https://kaywin7.github.io/QR_Component/)
 
 ### What I learned
 This  component is a great first challenge to learn the basics of HTML and css
